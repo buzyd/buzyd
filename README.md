@@ -18,3 +18,7 @@
 ---
 
 Thanks for checking out my profile! 😊
+
+
+
+github-snake-dark.svg
