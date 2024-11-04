@@ -1,5 +1,4 @@
-# 👋 Hello! I'm [buzyd]
-
+🐚
 "Just a first-year student in computer science."
 
 ### Skills
