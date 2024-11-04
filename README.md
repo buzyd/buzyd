@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/45a14bca-fc63-4717-9ca2-e7967b7a69c1)"Just a first-year student in computer science."
+"Just a first-year student in computer science."
 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
