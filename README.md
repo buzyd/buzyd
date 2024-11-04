@@ -6,4 +6,5 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-![Your snake](https://github.com/buzyd/github-snake/blob/main/github-contribution-grid-snake-dark.svg)
+![Your snake](https://github.com/buzyd/buzyd/raw/main/out/github-contribution-grid-snake-dark.svg)
+
